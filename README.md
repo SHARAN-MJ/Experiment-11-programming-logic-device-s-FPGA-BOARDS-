@@ -88,6 +88,7 @@ if ack:
  print(ack)
 c.close()
 ```
+```
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
